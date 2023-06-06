@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Expense-Handler/static/css/main.a0d0f99d.css",
+    "main.js": "/Expense-Handler/static/js/main.b6303e5e.js",
+    "static/js/787.943f5f86.chunk.js": "/Expense-Handler/static/js/787.943f5f86.chunk.js",
+    "index.html": "/Expense-Handler/index.html",
+    "main.a0d0f99d.css.map": "/Expense-Handler/static/css/main.a0d0f99d.css.map",
+    "main.b6303e5e.js.map": "/Expense-Handler/static/js/main.b6303e5e.js.map",
+    "787.943f5f86.chunk.js.map": "/Expense-Handler/static/js/787.943f5f86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0d0f99d.css",
+    "static/js/main.b6303e5e.js"
+  ]
+}
